@@ -1,0 +1,40 @@
+* {
+    background-color: #9b10ad;
+}
+
+div {
+    display: inline-block;
+    border: 1px solid #891da7;
+    width: 130px;
+    height: 130px;
+    margin: -2px;
+}
+
+.quadrado {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.vermelho {
+
+    background-color: #ff0000;
+}
+
+.azul {
+    background-color: #00b0f0;
+}
+
+.verde {
+
+    background-color: #00b050;
+}
+
+.amarelo {
+
+    background-color: #ffff00;
+}
+
+#canto {
+    border: 3px solid #000000;
+}
